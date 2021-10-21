@@ -1,0 +1,26 @@
+{
+  "name": "job-seeker-chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serrver.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejaygbay/job-seeker-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejaygbay/job-seeker-chatbot/issues"
+  },
+  "homepage": "https://github.com/ejaygbay/job-seeker-chatbot#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
